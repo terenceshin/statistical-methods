@@ -1,0 +1,6 @@
+- Survival Analysis
+- Classification
+- Regression
+- Clustering
+- Time series
+- Other A/B tests
